@@ -1,0 +1,12 @@
+
+.inputForm{
+    display: grid;
+    justify-content: center;
+}
+.inputDiscr{
+    height: 80px;
+
+}
+::placeholder {
+    color: rgb(8, 8, 8);
+  } 

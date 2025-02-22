@@ -1,0 +1,49 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./app/catalog/catalog.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+.List_cars{
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 83%;
+    overflow-y: auto;
+    box-sizing: border-box; 
+    display: flex;
+    
+}
+.fix{
+    margin-left: 50%;
+    width: 40%;
+    height: 800px;
+    position: fixed;
+}
+.detail_tree {
+    background: azure;
+    /* display: grid
+; */
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    border: solid;
+    border-radius: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.detail_tree button{
+    margin-top: 10pxs;
+    margin-left: 10px;
+}
+
+.tree_img{
+    height: 25vh;
+    width: 98%;
+}
+
+.carusel_img{
+   
+    padding-right: 0px;
+    padding-left: 10px;
+    width: 40%;
+   
+    
+}
+

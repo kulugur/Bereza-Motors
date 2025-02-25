@@ -11,11 +11,32 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
+    "/guarantee/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/guarantee/page.css",
+      "static/chunks/app/guarantee/page.js"
+    ],
+    "/brend/[name]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/brend/[name]/page.js"
+    ],
+    "/Name_without_use/[name]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Name_without_use/[name]/page.js"
+    ],
     "/catalog/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/catalog/page.css",
       "static/chunks/app/catalog/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }
